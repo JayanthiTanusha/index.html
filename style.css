@@ -1,0 +1,45 @@
+body{
+    background-color: brown;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin:4%;
+    font-size: larger;
+    color: blue;
+
+    margin-top: 5rem
+}
+.aboutimage{
+    clip-path: circle();
+}
+    .mouse_icon > img {
+
+        width: 250px;
+        height:300px;
+        
+    }
+    
+    
+
+.about main{
+    display:flex;
+    flex flex-direction: row;
+    align items:center;
+    margin-top:5rem;
+}
+.tanusha{
+    clip-path: circle();
+    height: 200px;
+}
+.about-heading{
+    margin: 4rem;
+    padding:5rem;
+    color: aqua;
+    font-style:oblique;
+}
+.content{
+    color: aliceblue;
+}
+.chin2{
+    clip-path: circle();
+    height: 400px;
+    
+}
